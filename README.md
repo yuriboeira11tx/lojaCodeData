@@ -1,2 +1,2 @@
 # lojaCodeData
-Aplicativo simples de uma loja no formato e-commerce
+Aplicativo simples de uma loja virtual, utilizando o gerenciamento de estado ScopedModel do Flutter.
